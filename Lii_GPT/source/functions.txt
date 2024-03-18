@@ -1,0 +1,5 @@
+Features of Our, actually my, Discord Bot:
+
+1. Greeting Command: !hello - Say hello to the bot.
+2. Quote Command: !quote - Get a random quote.
+3. Joke Command: !joke - Hear a programming joke.
