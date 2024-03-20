@@ -36,7 +36,6 @@ This Python script allows you to download videos or audio from YouTube, get top 
 
 1. Clone this repository:
    ```
-   bash
    git clone https://github.com/....
    ```
 
