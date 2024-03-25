@@ -13,14 +13,14 @@ This Python script allows you to download videos or audio from YouTube, get top 
    - `<type>`: Type of download, choose either `video` or `audio`.
    - `-o, --output`: (Optional) Output path to save the downloaded file. Default is the current directory.
 
-2. **Get Top Videos from a Channel**:
+2. **Get Top Videos from a Channel**: ***incomplete*** 
    ```
    python youtube_downloader.py channel <channel_name>
    ```
 
    - `<channel_name>`: YouTube channel name.
 
-3. **Search Videos on YouTube**:
+3. **Search Videos on YouTube**: ***incomplete*** 
    ```
    python youtube_downloader.py search <query>
    ```
